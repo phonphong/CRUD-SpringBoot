@@ -1,0 +1,13 @@
+package com.manganer.macstore;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MacstoreApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MacstoreApplication.class, args);
+	}
+
+}
